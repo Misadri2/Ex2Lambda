@@ -1,0 +1,6 @@
+Mislaine, mis@ig.com.br, 7500
+Marcio, marcio@ig.com.br, 7500
+Bruce, bruce@ig.com.br, 5000
+Alice, alice@ig.com.br, 2500
+Maria, maria@ig.com.br, 4000
+Eliana, eliana@ig.com.br, 3500
